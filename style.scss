@@ -1,0 +1,47 @@
+
+$color:brown;
+%message{
+    text-align: center;
+    color:$color;
+    font-size:120px;
+    font-style: normal;
+    font-weight: bold;
+    font-family: cursive;
+    margin: 0;
+   padding: 20px 0;
+}
+h1{
+  @extend %message;
+}
+  h2{
+    @extend %message;
+    text-align: left;
+      font-size:60px;
+    }
+    a{
+      color: yellow;
+      font-size:40px;
+      font-style: italic;
+      a:hover{
+        background-color: green;
+      }
+    }
+    .edit{
+      border-collapse: collapse;
+      font-size: 20px;
+      font-style: italic;
+      font-weight: normal;
+      font-family: cursive;
+      color: #A84934;
+      border: 2px  solid black;
+      padding: 15px;
+      text-align: left;
+      td{
+        color:yellow;
+      }
+    }
+  .edit,th,td{
+      border: 2px  solid black;
+      padding: 15px;
+      text-align: left;
+    }

@@ -1,0 +1,11 @@
+Hello!
+HTML FILES(4)-:
+My website include miniature form of car wikipedia.
+The first page consist of brief description about the car and its type along with some external links for some car blogs.It also have  an link for the signup page.
+The second and third page describes the different types of car in tabular form.
+The fourth page is a signup that have some fields for user to be filled and contribute to my website.
+NOTE-The last page only contain a form format as till now i dont have any knowledge about server or handling data.
+CSS FILES(2)-:
+They include all the necessary styling required.
+SCSS FILE(1)
+Thank you!
